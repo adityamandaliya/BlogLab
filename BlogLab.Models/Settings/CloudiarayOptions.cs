@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BlogLab.Models.Settings
 {
-    public class CloudianryOptions
+    public class CloudinaryOptions
     {
         public string CloudName { get; set; }
 
